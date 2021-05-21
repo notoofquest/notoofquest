@@ -1,0 +1,163 @@
+{
+  "name": "William Duncan",
+  "position": "Full-stack Developer",
+  "featuredTags": [
+    "JavaScript",
+    "PHP",
+    "NodeJS",
+    "MySQL"
+  ],
+  "secondaryTags": [
+    "Git",
+    "REST",
+    "Bootstrap",
+    "Material Design",
+    "Linux",
+    "Apache"
+  ],
+  "lead": "Hi! I am a full-stack developer with experience in programming since 2013. I have extensive knowledge in both front- and back-end development.",
+  "details": [
+    {
+      "Born": "Q1 2004 <small class=text-muted>(<span data-years-since=2004>loading...</span>)</small>",
+      "Sex": "Male",
+      "IQ": "124 <small class=text-muted>(iqtest.com)</small>",
+      "Experience": "since 2013 <small class=text-muted>(<span data-years-since=2013>loading...</span>)</small>"
+    }
+  ],
+  "experience": [
+    {
+      "date": "Q1 2021",
+      "description": "Cloudnode.pro is a hosting company providing an extensive array of professional hosting solutions and other software services.",
+      "role": "Lead Full-Stack Developer"
+    },
+    {
+      "date": "Q3 2020",
+      "description": "GSRV.io is an active hosting platform providing premium game servers.",
+      "role": "Lead Full-Stack Developer"
+    },
+    {
+      "date": "Q2 2020",
+      "description": "MChost was a hosting platform providing free and paid Minecraft servers.",
+      "role": "Lead Full-Stack Developer"
+    },
+    {
+      "date": "Q2 2015",
+      "description": "CloudianOS was a NodeJS platform providing a desktop environment that syncs all of your data so that you can access it from any device with an online account.",
+      "role": "Lead Full-Stack Developer"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "value": 1
+    },
+    {
+      "name": "German",
+      "value": 0.55
+    },
+    {
+      "name": "German",
+      "value": 0.05
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "value": 0.99
+    },
+    {
+      "name": "NodeJS",
+      "value": 0.9
+    },
+    {
+      "name": "PHP",
+      "value": 0.85
+    },
+    {
+      "name": "MySQL",
+      "value": 0.7
+    },
+    {
+      "name": "CSS",
+      "value": 0.9
+    },
+    {
+      "name": "C++",
+      "value": 0.23
+    }
+  ],
+  "skillsIQ": {
+    "profile": "https://app.pluralsight.com/profile/william-duncan-68",
+    "list": [
+      {
+        "title": "JavaScript Core Language",
+        "rating": "EXPERT 238",
+        "percentile": 0.93,
+        "verified": 1599339600000
+      },
+      {
+        "title": "Building Websites with HTML, CSS, and JavaScript",
+        "rating": "EXPERT 264",
+        "percentile": 0.98,
+        "verified": 1599339600000
+      }
+    ]
+  },
+  "portfolio": [
+    {
+      "name": "CloudianOS",
+      "value": "https://cdn.cloudnode.pro/ZJpcBwytab7TEKiSBuYEQjlAOb887dGa/william.cloudnode.pro/images/cloudianos.png"
+    },
+    {
+      "name": "MChost",
+      "value": "https://cdn.cloudnode.pro/ZJpcBwytab7TEKiSBuYEQjlAOb887dGa/william.cloudnode.pro/images/mchost.png"
+    },
+    {
+      "name": "GSRV",
+      "value": "https://cdn.cloudnode.pro/ZJpcBwytab7TEKiSBuYEQjlAOb887dGa/william.cloudnode.pro/images/gsrv.png"
+    }
+  ],
+  "toolkit": {
+    "featured": {
+      "icon": "https://cdn.cloudnode.pro/ZJpcBwytab7TEKiSBuYEQjlAOb887dGa/william.cloudnode.pro/images/ubuntu.png",
+      "title": "Ubuntu",
+      "description": [
+        "20.04 LTS, gnome, Materia-dark, Qogir-dark",
+        "i7-9750H, GTX 1650"
+      ]
+    },
+    "secondary": [
+      {
+        "name": "Sublime Text 3",
+        "icon": "https://cdn.cloudnode.pro/ZJpcBwytab7TEKiSBuYEQjlAOb887dGa/william.cloudnode.pro/images/sublime.svg"
+      },
+      {
+        "name": "Chromium",
+        "icon": "https://cdn.cloudnode.pro/ZJpcBwytab7TEKiSBuYEQjlAOb887dGa/william.cloudnode.pro/images/chromium.png"
+      },
+      {
+        "name": "Spotify",
+        "icon": "https://cdn.cloudnode.pro/ZJpcBwytab7TEKiSBuYEQjlAOb887dGa/william.cloudnode.pro/images/spotify.png"
+      },
+      {
+        "name": "Discord",
+        "icon": "https://cdn.cloudnode.pro/ZJpcBwytab7TEKiSBuYEQjlAOb887dGa/william.cloudnode.pro/images/discord.png"
+      }
+    ]
+  },
+  "contact": [
+    {
+      "name": "E-mail",
+      "value": "william@cloudnode.pro"
+    },
+    {
+      "name": "Discord",
+      "value": "WilliamD#1782"
+    },
+    {
+      "name": "GitHub",
+      "value": "williamd5",
+      "href": "https://github.com/williamd5"
+    }
+  ]
+}

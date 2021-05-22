@@ -1,0 +1,21 @@
+name: Minify JSON
+
+on:
+  push:
+    paths:
+      - 'config.json'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Minify JSON
+        run: |
+            cd .github/workflows
+            node .
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Minified JSON

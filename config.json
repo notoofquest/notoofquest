@@ -145,8 +145,7 @@
       }
     ]
   },
-  "contact": [
-    {
+  "contact": [{
       "name": "E-mail",
       "value": "william@cloudnode.pro"
     },
@@ -159,5 +158,4 @@
       "value": "williamd5",
       "href": "https://github.com/williamd5"
     }
-  ]
-}
+  ]}

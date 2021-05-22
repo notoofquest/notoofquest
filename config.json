@@ -148,12 +148,10 @@
   "contact": [{
       "name": "E-mail",
       "value": "william@cloudnode.pro"
-    },
-    {
+    }, {
       "name": "Discord",
       "value": "WilliamD#1782"
-    },
-    {
+    }, {
       "name": "GitHub",
       "value": "williamd5",
       "href": "https://github.com/williamd5"

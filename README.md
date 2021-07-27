@@ -12,8 +12,8 @@
 Here is some things that you don't care about:
 ```js
 const aboutMe = {
-  'workingOn': 'Nothing I am never using github! I am trash at coding! :)',
-  'learning': 'Java, HTML etc.',
+  'workingOn': 'A Moderation bot that uses MongoDB using Discord.js',
+  'learning': 'Mainly javascript and nodejs',
   'pronouns': 'he, him'
 }
 

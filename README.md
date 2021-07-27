@@ -13,21 +13,13 @@ Here is some things that you don't care about:
 ```js
 const aboutMe = {
   'workingOn': 'A Moderation bot that uses MongoDB using Discord.js',
-  'learning': 'Mainly javascript and nodejs',
+  'learning': 'Mainly javascript and nodejs!',
+  'discord': 'oofquest#1234, feel free to contact me at any time!',
   'pronouns': 'he, him'
 }
 
 ```
 
-<!--
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to find friends because I don't have any ;(
-- 📫 How to reach me: myspace me 
-- 😄 Pronouns: He, Him
-- ⚡ Fun fact: Mr.Ace is woomy!
-
--->
 
 ### Stats
 
